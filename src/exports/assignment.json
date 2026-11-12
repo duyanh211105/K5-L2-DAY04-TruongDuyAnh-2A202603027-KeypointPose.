@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603027",
+ "ten": "TruongDuyAnh",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "duyanh211105",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000103970.jpg",
+  "000000137767.jpg",
+  "000000241837.jpg",
+  "000000294379.jpg",
+  "000000445187.jpg",
+  "000000091637.jpg",
+  "000000122199.jpg",
+  "000000177338.jpg",
+  "000000023424.jpg",
+  "000000043500.jpg",
+  "000000253584.jpg",
+  "000000522889.jpg"
+ ],
+ "faces": [
+  "face_359139.jpg",
+  "face_559185.jpg",
+  "face_575921.jpg",
+  "face_137371.jpg",
+  "face_436791.jpg",
+  "face_196742.jpg",
+  "face_219250.jpg",
+  "face_38721.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 18,
+   "job_id": 8,
+   "task_name": "persons-TruongDuyAnh"
+  },
+  "faces": {
+   "task_id": 19,
+   "job_id": 9,
+   "task_name": "faces-TruongDuyAnh"
+  }
+ }
+}
